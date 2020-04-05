@@ -1,3 +1,48 @@
+Uygulamayı yaparken FrontEnd tarafında React kullanılmıştır. BackEnd tarafında Laravel API kullanılmıştır.
+
+## [BackEnd](https://github.com/eraykisabacak/Laravel-API-E-Commerce-Backend)
+## [FrontEnd](https://github.com/eraykisabacak/React-E-Commerce-Front-End)
+
+# Kurulum
+Uygulamayı çalıştırmak için BackEnd ve FrontEnd repolarını klonlamanız gerekiyor.
+
+FrontEnd klasörüne gittiğinizde öncelikle komut satırını açarak `npm install` diyerek gerekli ek paketler yüklenecektir.
+
+Daha sonra ise BackEnd klasörüne gidelim. Bu klasörde komut satırını açarak `compose install`ve `npm install` diyerek backend için gerekli paketler yüklenecektir.
+
+BackEnd çalıştırmak için komut satırını açarak `php artisan serve --port=8080` diyerek backend çalıştırabiliriz.(Uygulamanın çalışması için bunu kapatmayınız)
+
+FrontEnd çalıştırmak için `npm start` demeniz yeterli olacaktır.(Gerekli derlemeden sonra otomatik tarayıcıda sekme açılacaktır. Yine açmış olduğunuz komut satırını kapatmayınız)
+
+# Uygulama İçi Görüntüler
+
+### Müşteri Sayfası
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce1.png)
+### Giriş Sayfası
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce2.png)
+### Kayıt Sayfası
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce3.png)
+### Ürün Ekleme Silme
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce4.png)
+### Sepet Sayfası
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce5.png)
+### Adres Ekleme Sayfası
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce6.png)
+### Admin Girişi Sayfası
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce7.png)
+### Admin Sayfası
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce8.png)
+### Admin Ürün Düzenleme Sayfası
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce9.png)
+### Admin Kategori Düzenleme Sayfası
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce10.png)
+### Admin Kategori Ekleme
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce11.png)
+### Admin Ürün Ekleme
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce12.png)
+### Admin Gelen Sipariş Listesi
+![](https://github.com/eraykisabacak/React-E-Commerce-Front-End/blob/master/photo/ecommerce13.png)
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
